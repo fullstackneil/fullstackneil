@@ -1,11 +1,13 @@
-### 👋 Hi, I'm Neil!
+## 👋 Hi, I'm Neil!
 
 Welcome to my GitHub! I'm a full-stack developer with a passion for building interactive and dynamic web applications. Whether it's crafting a user-friendly interface or engineering the backend logic, I love turning complex problems into simple, elegant solutions.
 
-### What I’m working on:
+
+## What I’m working on:
 🏈 Fantasy Football App – An app to manage leagues, players, drafts, and trades, built using React, Flask, and SQLAlchemy (🚧 Currently in progress).
 
-### ⚙️ Tech Stack
+
+## ⚙️ Tech Stack
 * Frontend: <img src='https://res.cloudinary.com/dw0k7r34f/image/upload/v1726215546/React_wreig0.svg'>
   <img src='https://res.cloudinary.com/dw0k7r34f/image/upload/v1726215547/Redux_arspkx.svg'>
   <img src='https://res.cloudinary.com/dw0k7r34f/image/upload/v1726215546/JavaScript_tcs3ub.svg'>
@@ -23,7 +25,7 @@ Welcome to my GitHub! I'm a full-stack developer with a passion for building int
   <img src='https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=White'>
   <img src='https://img.shields.io/badge/AWS-yellow?style=for-the-badge&logo=amazonwebservices&logoColor=White'>
 
-### 👨‍💻 A little more about me:
+## 👨‍💻 A little more about me:
 When I'm not coding, you’ll find me:
 
 * Watching/playing sports 🏀⚽
@@ -31,7 +33,9 @@ When I'm not coding, you’ll find me:
 * Hanging out with friends 🎉
 * Playing with my two cats, Finn and Banjo 🐈 🐈‍⬛ 🐾
 
-### 📈 GitHub Stats:
+
+
+## 📈 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstackneil)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fullstackneil&layout=compact)](https://github.com/fullstackneil)
